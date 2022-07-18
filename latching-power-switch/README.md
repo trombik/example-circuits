@@ -9,7 +9,7 @@ There are other designs, but I like the design because:
 * it is easy to understand how it works
 * quiescent current is zero
 
-[the schematic](latching-power-switch.svg)
+![the schematic](latching-power-switch.svg)
 
 ## Notes
 
