@@ -2,4 +2,4 @@
 
 A typical PWM generator.
 
-![Schematic](pwm.svg]
+![Schematic](pwm.svg)
