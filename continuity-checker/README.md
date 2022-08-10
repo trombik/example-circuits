@@ -2,6 +2,8 @@
 
 A simple continuity checker with a comparator.
 
+![Continuity checker on a mini breadboard](continuity-checker.jpg)
+
 ![Schematic](continuity-checker.svg)
 
 Any comparator can be used.
