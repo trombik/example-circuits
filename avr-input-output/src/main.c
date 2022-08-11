@@ -158,6 +158,9 @@ void loop()
 		 * above is equivalent to:
 		 *
 		 * bit_is_set(PINB, PORTB3)
+		 *
+		 * avr/sfr_defs.h is not included by #include because avr/io.h
+		 * always include it.
 		 */
 		if (bit_is_set(PINB, PORTB3)) {
 
