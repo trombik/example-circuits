@@ -25,10 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="cm"
      showgrid="false"
-     inkscape:zoom="1.6474292"
-     inkscape:cx="122.91879"
-     inkscape:cy="132.63089"
-     inkscape:current-layer="svg698" />
+     inkscape:zoom="0.01"
+     inkscape:cx="22800"
+     inkscape:cy="12150"
+     inkscape:current-layer="svg698"
+     showguides="true" />
   <title
      id="title2">SVG Picture created as avr-input-output.svg date 2022/08/11 06:55:21 </title>
   <desc
@@ -44,7 +45,7 @@
   <g
      style="fill:#f5f4ef;fill-opacity:1;stroke:#f5f4ef;stroke-width:0.03937;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      id="g12"
-     transform="translate(-41721.537,31899.568)">
+     transform="matrix(0.27023305,0,0,0.2495781,0.0036098,0.00615382)">
     <rect
        x="0"
        y="0"
