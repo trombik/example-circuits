@@ -18,3 +18,10 @@ or my
 ## Schematic
 
 ![Schematic](kicad/avr-input-output.svg)
+
+## Building and uploading
+
+```console
+pio run
+pio run -e attiny85 -t upload --upload-port /dev/cuaU0
+```
